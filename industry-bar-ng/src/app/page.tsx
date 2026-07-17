@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import GuestFavorites from "@/components/GuestFavorites";
 import DailyOffer from "@/components/DailyOffer";
-import Cjenik from "./cjenik/page";
+import Cjenik from "@/components/CjenikContent";
 import Contact from "@/components/Contact";
 export default function Home() {
   return (
